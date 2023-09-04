@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Quiz App</string>
+    <string name="image">image</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="play_again">Play Again</string>
+    <string name="you_ve_won_a_prize">You\'ve won a prize!</string>
+    <string name="winner">Winner</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="next_story">Next Story</string>
 </resources>
